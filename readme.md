@@ -85,6 +85,9 @@ Add deep-sleep between updates, for low-power outdoor deployment (with battery /
 
 Expand to monitor multiple stops / routes (multi-page / scrollable UI).
 
+##Disclaimer
+
+This project is provided "as-is." I am not affiliated with SEPTA; accuracy of bus time estimates will depend on their API.
 
 ##License
 
